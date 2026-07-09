@@ -1,0 +1,9 @@
+runpod
+transformers==4.57.1
+torch
+torchvision
+pillow
+opencv-python-headless
+decord
+lmdb
+peft
